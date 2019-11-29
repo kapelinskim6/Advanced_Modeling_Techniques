@@ -1,4 +1,4 @@
-# Advanced_Modeling_Techniques 
+# MSDS_454_Advanced_Modeling_Techniques 
 
 This course acts as a ‘modeling capstone’ through the application of the topics covered in the core modeling sequence and their 
 extension to the more advanced topics from modern statistical and machine learning. The high level objectives of this course are to 
